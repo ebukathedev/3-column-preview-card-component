@@ -1,0 +1,154 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+  text-decoration: none;
+}
+
+.attribution {
+  color: #004241;
+  margin: 30px 0 0;
+  font-size: 0.6875rem;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.attribution a {
+  color: #e38826;
+}
+
+/* frontend mentor styles end*/
+body {
+  width: 100vw;
+  height: auto;
+  padding: 40px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-content: center;
+  font-size: 0.9375rem;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.container {
+  width: 80%;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: #f2f2f2;
+}
+
+.container .box {
+  position: relative;
+  padding: 50px 35px 50px;
+}
+
+.container .box h1 {
+  padding: 24px 0;
+  font-family: 'Big Shoulders Display', cursive;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 2.2rem;
+}
+
+.container .box p {
+  color: rgba(255, 255, 255, 0.75);
+  padding: 0 0 60px 0;
+  line-height: 1.6;
+}
+
+.container .box a {
+  position: absolute;
+  bottom: 10%;
+  padding: 14px 30px;
+  background-color: #f2f2f2;
+  border-radius: 30px;
+}
+
+.container .box a:hover {
+  background-color: transparent;
+  color: #f2f2f2;
+  border: 2px solid #f2f2f2;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.container .sedan {
+  background-color: #e38826;
+  border-radius: 10px 10px 0 0;
+}
+
+.container .sedan a {
+  color: #e38826;
+}
+
+.container .suv {
+  background-color: #006970;
+}
+
+.container .suv a {
+  color: #006970;
+}
+
+.container .luxury {
+  background-color: #004241;
+  border-radius: 0 0 10px 10px;
+}
+
+.container .luxury a {
+  color: #004241;
+}
+
+@media (min-width: 1200px) {
+  body {
+    height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .container {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    width: 65%;
+    height: 57%;
+  }
+  .container .box {
+    padding: 50px 52px 0;
+  }
+  .container .box p {
+    padding: 0 0 100px;
+  }
+  .container .sedan {
+    border-radius: 10px 0 0 10px;
+  }
+  .container .luxury {
+    border-radius: 0 10px 10px 0;
+  }
+}
+/*# sourceMappingURL=style.css.map */
