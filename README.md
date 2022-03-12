@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 -   Frontend Mentor - [@ebukathedev](https://www.frontendmentor.io/profile/ebukathedev)
--   Twitter - [@yourusername](https://www.twitter.com/ebukathedev)
+-   Twitter - [@ebukathedev(https://www.twitter.com/ebukathedev)
