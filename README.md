@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://determined-tesla-9a609a.netlify.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 -   Frontend Mentor - [@ebukathedev](https://www.frontendmentor.io/profile/ebukathedev)
--   Twitter - [@ebukathedev(https://www.twitter.com/ebukathedev)
+-   Twitter - @ebukathedev(https://www.twitter.com/ebukathedev)
