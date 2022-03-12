@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [https://determined-tesla-9a609a.netlify.app/]
+-   Solution URL: [solution URL]()https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/simple-3column-design-using-scss-and-css-flexbox-zwpMMIQ_V
+-   Live Site URL: [site URL](https://determined-tesla-9a609a.netlify.app/)
 
 ## My process
 
